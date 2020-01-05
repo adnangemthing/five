@@ -29,8 +29,8 @@ client.on('message', msg => {  //WESO#0001
   
 
   client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'احبك') {  //WESO#0001
-      msg.reply('**حبك برص يا سافل**');  //WESO#0001
+    if (msg.content === 'عدنان') {  //WESO#0001
+      msg.reply('**adnan_gemthing#4668**');  //WESO#0001
     }
   });
 
